@@ -4,5 +4,20 @@
 ## 接口地址
 
 - 榜单api
-  - http://localhost/toplist
+  - /toplist
   - GET
+- 推荐api
+  - /recommend
+  - GET
+- 搜索api
+  - /search
+  - GET
+  - 参数1: name
+- 歌曲信息api
+  - /musicdetail
+  - GET
+  - 参数1: id
+- 歌词信息api
+  - /musiclyric
+  - GET
+  - 参数1: id

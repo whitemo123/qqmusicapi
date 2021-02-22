@@ -1,7 +1,7 @@
 # qqmusicapi
-为了VUE QQMUSIC写的后台接口 未进行优化 有时间再优化
+VUE QQMUSIC后台程序
 
-## 接口地址
+## 现有功能
 
 - 榜单api
   - /toplist
@@ -21,3 +21,10 @@
   - /musiclyric
   - GET
   - 参数1: id
+
+## 待更新
+  - 模块化管理
+  - 允许跨域
+  - 新增歌评、发表评论等功能
+  - 封装频率较高的方法(Http请求)
+  - ...
